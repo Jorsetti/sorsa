@@ -1,0 +1,14 @@
+/* CSS for adding content example */
+
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:800italic);
+     html, body {
+        margin: 0;
+        padding: 0;
+        height: 100%;}
+      #map {
+        width: 90%;
+        height: 90%;
+        margin: 0px;
+      }
+
+
