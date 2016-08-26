@@ -1,0 +1,26 @@
+
+.button {
+
+    border: none;
+    color: white;
+    padding: 10px ;
+    text-align: left;
+    text-decoration: underline;
+
+    font-size: 20px;
+    margin: 10px ;
+
+    border-radius: 8px;
+}
+
+.button1 {background-color: #555555;} 
+.button2 {background-color: #f00a0a;} 
+.button3 {background-color: #0af040;} 
+.button4 {background-color: #f00a0a;}  
+.button5 {background-color: #0af040;} 
+
+.button1 {width: 50%;} 
+.button2 {width: 50%;}
+.button3 {width: 30%;}
+.button4 {width: 20%;}
+.button5 {width: 99%;}
